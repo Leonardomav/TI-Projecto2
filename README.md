@@ -1,4 +1,4 @@
-# TI-projecto
+# TI-Projecto2
 
 __Projecto de Teoria da Informação__ - Codificação LZW e Formato de Imagem GIF
 
